@@ -17,3 +17,22 @@ button {
 button:hover{
     background-color: grey;
 }
+
+label{
+    display: block;
+    font-size: 48px;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    min-width: 45%;
+    height: 50px;
+    font-size: 32px;
+}
+
+textarea{
+    min-width: 45%;
+    height: 150px;
+    font-size: 18px;
+}
