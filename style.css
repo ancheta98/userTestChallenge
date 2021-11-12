@@ -35,4 +35,25 @@ textarea{
     min-width: 45%;
     height: 150px;
     font-size: 18px;
+
 }
+
+/* for components (untested these are guesses) 
+at this point I would rather just build this darn thing myself lol
+form {
+    border: black solid 1px;
+    margin:auto;
+    width: 80%;
+}
+
+section{
+    display: flex;
+    flex-direction:row;
+}
+
+.card{
+    flex-direction: column;
+    min-width: 25%;
+}
+
+*/
